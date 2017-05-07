@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+* [新生大学](README.md)
 
